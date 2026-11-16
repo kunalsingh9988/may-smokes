@@ -1,0 +1,22 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="144" height="144" viewBox="0 0 144 144" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="SVG" clip-path="url(#clip0_0_4)">
+<g id="Masked Group">
+<mask id="mask0_0_4" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="144" height="144">
+<path id="Vector" d="M144 0H0V144H144V0V0M72 108C91.8821 108 108 91.8821 108 72Cnan nan 91.8821 36 72 36Cnan nan 36 52.1179 36 72Cnan nan 52.1179 108 72 108V108" fill-rule="evenodd" clip-rule="evenodd" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_4)">
+<g id="Group">
+<path id="Vector_2" d="M36 72C36 91.8689 52.1311 108 72 108C91.8689 108 108 91.8689 108 72C108 52.1311 91.8689 36 72 36C52.1311 36 36 52.1311 36 72V72" fill="black" fill-opacity="0.7"/>
+<path id="Vector_3" d="M37.8 72C37.8 90.8755 53.1245 106.2 72 106.2C90.8755 106.2 106.2 90.8755 106.2 72C106.2 53.1245 90.8755 37.8 72 37.8C53.1245 37.8 37.8 53.1245 37.8 72V72" stroke-width="3.6" stroke="black" stroke-opacity="0.7"/>
+</g>
+</g>
+</g>
+<path id="Vector_4" d="M72 108C91.8821 108 108 91.8821 108 72C108 52.1179 91.8821 36 72 36C52.1179 36 36 52.1179 36 72C36 91.8821 52.1179 108 72 108V108M87.84 72L64.08 58.32V85.68L87.84 72V72" fill-rule="evenodd" clip-rule="evenodd" fill="black" fill-opacity="0.7"/>
+<path id="Vector_5" d="M64.08 85.68V58.32L87.84 72L64.08 85.68V85.68" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_0_4">
+<rect width="144" height="144" fill="white"/>
+</clipPath>
+</defs>
+</svg>

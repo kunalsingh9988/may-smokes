@@ -1,3 +1,7 @@
 dist
 *.py
 README.md
+shopify-theme
+tools
+vite.shopify.config.js
+SHOPIFY.md
