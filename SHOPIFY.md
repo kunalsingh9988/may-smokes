@@ -24,4 +24,6 @@ python3 tools/sync_shopify_branding.py
 
 Provisional catalog entries have a single Standard variant at the saved first price. Alien ET THCa Flower has the five sizes from its Figma frame. The saved source catalog does not contain full variant or inventory data; replace provisional records with an approved export before launch. Five policy pages are unpublished placeholders pending approved May Smokes legal copy.
 
+The migration created all 1,247 source product routes, 28 source collections, and 45 news articles. The store has 45 Page records, including the five unpublished policy placeholders and its pre-existing Contact and Privacy Choices pages. The source collection lists contain eight app-only gift handles without storefront product routes, so those entries were not imported. The 17 original Shopify demo products remain in the store.
+
 Draft preview: https://may-smokes.myshopify.com/?preview_theme_id=161953710251 (password protected).
